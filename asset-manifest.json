@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-voice-navigation/static/css/main.20f858b7.chunk.css",
+    "main.js": "/react-voice-navigation/static/js/main.2ce9fe24.chunk.js",
+    "main.js.map": "/react-voice-navigation/static/js/main.2ce9fe24.chunk.js.map",
+    "runtime-main.js": "/react-voice-navigation/static/js/runtime-main.359fb0b2.js",
+    "runtime-main.js.map": "/react-voice-navigation/static/js/runtime-main.359fb0b2.js.map",
+    "static/js/2.5258d900.chunk.js": "/react-voice-navigation/static/js/2.5258d900.chunk.js",
+    "static/js/2.5258d900.chunk.js.map": "/react-voice-navigation/static/js/2.5258d900.chunk.js.map",
+    "static/js/3.48d08ada.chunk.js": "/react-voice-navigation/static/js/3.48d08ada.chunk.js",
+    "static/js/3.48d08ada.chunk.js.map": "/react-voice-navigation/static/js/3.48d08ada.chunk.js.map",
+    "index.html": "/react-voice-navigation/index.html",
+    "static/css/main.20f858b7.chunk.css.map": "/react-voice-navigation/static/css/main.20f858b7.chunk.css.map",
+    "static/js/2.5258d900.chunk.js.LICENSE.txt": "/react-voice-navigation/static/js/2.5258d900.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.359fb0b2.js",
+    "static/js/2.5258d900.chunk.js",
+    "static/css/main.20f858b7.chunk.css",
+    "static/js/main.2ce9fe24.chunk.js"
+  ]
+}
